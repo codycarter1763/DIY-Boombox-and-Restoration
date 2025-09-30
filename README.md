@@ -13,7 +13,7 @@ When I was 12, I decided to take on a challenge and design my own boombox from t
 - Bluetooth
 - Full-range stereo audio with woofer, midrange, and tweeters
 - 3.5mm aux input for wired connections
-- Lithium battery for hours of continuous playback
+- Lithium battery for 6 hours of continuous playback
 
 I faced many challenges for this build, but after a lot of trial and error came a very useable and capable boombox that really motivated me to keep pursuing technology as a career. 
 
@@ -23,7 +23,10 @@ I faced many challenges for this build, but after a lot of trial and error came 
 </p> 
 
 ## After Development and Experience 
-Building off of the experience I gained from my first boombox build, I started incorporating computer aided technology, CNC machining, and audio physics for the highest fidelity audio and consistent quality. After multiple iterations, commissions started to gain traction from people who wanted a fully custom speaker system with aspects not found on the market. Notable builds include multiple studio monitor systems for mastering music for a recording studio and band hall, desktop speakers, and portable party speakers. 
+Building off of the experience I gained from my first boombox build, I started incorporating Autodesk Fusion for CAD, CNC machining, and audio physics with WinISD for the highest fidelity and consistent audio quality. After multiple iterations, commissions started to gain traction from people who wanted a fully custom speaker system with aspects not found on the market. Notable builds include:
+- Studio monitor systems for mastering music in a recording studio and band hall
+- Desktop speakers for high-fidelity audio quality
+- Portable boomboxes for parties and outdoor use
 
 <p align="left">
   <img src="https://github.com/user-attachments/assets/cb164321-e334-4e32-bffc-d568d28da9fc" width="48%" height="48%" alt="Left Image">
@@ -31,7 +34,17 @@ Building off of the experience I gained from my first boombox build, I started i
 </p> 
 
 # Restoration Of A Previous Build
+Between the fabrication of my first boombox and the standard models shown above, I experimented with making a portable boombox with advanced features to see whether it would be worth pursuing. Features include:
+- JVC KD-RD99BTS stereo reciever
+- 200W of Class D amplifier power
+- Full range hi-fi audio
+- Carefully sized box with WinISD for optimum subwoofer performance
+- Precision fabricated with CNC machining
+- Motorized AM/FM antenna for automatic raising/lowering
+- Guitar input
+- Microcontroller for custom RGB lighting
 
+  
 # Parts List
 
 # Enclosure Construction
