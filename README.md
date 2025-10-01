@@ -35,7 +35,7 @@ Building off of the experience I gained from my first boombox build, I started i
 
 # Restoration Of A Previous Build
 Between the fabrication of my first boombox and the standard models shown above, I experimented with making a portable boombox with advanced features to see whether it would be worth pursuing. Features include:
-- JVC KD-RD99BTS stereo reciever
+- JVC KD-RD99BTS stereo reciever for highly customizeable audio
 - 200W of Class D amplifier power
 - Full range hi-fi audio
 - Carefully sized box with WinISD for optimum subwoofer performance
@@ -44,9 +44,37 @@ Between the fabrication of my first boombox and the standard models shown above,
 - Guitar input
 - Microcontroller for custom RGB lighting
 
-  
-# Parts List
+While this speaker system did work, there were certain issues like air leaks, size of enclosure, radio battery charging, and ease of use that steered me to make Bluetooth-only speaker systems after this one. As a result, I just used this speaker system as a project box, where I can try out different speaker setups, features, tunings, and really anything else to potentially make into a new model.
 
+Fast forward to the present, I decided to take this speaker system out of retirement and make it into a very useable and functional boombox to bring with me to tailgates. Several improvements were made to the original design and ended up being my favorite boombox that I have made thus far. These improvements include:
+- New lead-acid battery and charger for radio setting backup
+- High-excursion subwoofer visualized with WinISD for deeper bass with the same box size
+- Cleaned up and simplified wiring
+- Downsized 200 watt amp to a 100 watt amp, ended up being just as loud with the same percieved volume without distortion
+- Resealed speaker enclosure with new foam strips to prevent air leaks
+- Disconnected the guitar input
+
+# Parts List
+## Audio
+- JVC KD-RD99BTS stereo reciever
+- Parts Express ground loop isolator
+- Pyramid TW44 Heavy Duty Titanium Super Tweeter
+- Pyle PDMR5 5" Sealed Back Midrange Speaker Driver
+- GRS 8SW-4HE 8" High Excursion Subwoofer 4 Ohm
+- Doudou TPA3116D2 Class D Stereo 2x50W amp board
+- Parts Express Polyfill
+- Motorized AM/FM Antenna
+
+## Power
+- AC 110V/220V to DC 12V 20A 240W Universal Regulated Switching Power Supply
+- 400W 15A DC Boost Module
+- Mighty Max Battery ML5-12 - 12 Volt 5 AH
+- 12V Sealed Lead Acid (SLA) Battery Charger 1300mA
+- ChromaTek Full-Color RGB (WS2812) 19mm Momentary Push Button Switch
+- Arduino Uno for RGB Button
+- Buck Converter for Arduino
+- Toggle Switches
+  
 # Enclosure Construction
 
 # Electronics
