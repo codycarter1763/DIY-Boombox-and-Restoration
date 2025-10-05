@@ -76,6 +76,16 @@ Fast forward to the present, I decided to take this speaker system out of retire
 - Toggle Switches
   
 # Enclosure Construction
+Using a speaker designing software like WinISD, speakers and enclosures can be simulated to see how the system will perform under certain parameters. 
+
+## WinISD Simulation 
+Using a GRS 8SW-4HE 8" High Excursion Subwoofer and a 0.71 ft^3 sized sealed enclosure, below is a graph that plots the Sound Pressure Level (SPL) over the frequency spectrum in decibels. 
+
+<img width="1088" height="561" alt="image" src="https://github.com/user-attachments/assets/3f63e68d-b891-4af9-9750-6f30de1388df" />
+
+Analyzing the graph, 
+
+<img width="1172" height="226" alt="image" src="https://github.com/user-attachments/assets/50e95631-01a4-4416-b217-86a5d2532621" />
 
 # Electronics
 
