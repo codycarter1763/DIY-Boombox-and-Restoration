@@ -88,5 +88,14 @@ Using a GRS 8SW-4HE 8" High Excursion Subwoofer and a 0.71 ft^3 sized sealed enc
 Since this is a sealed box, analyzing the graph shows a smooth increase starting at 10 Hz and leveling off at 100 Hz. The effect of this is flat, predictible bass without the boomniness that comes from specific frequencies from ported speaker enclosures. This means the sealed enclosure size is perfect in getting the best performance.
 
 # Electronics
+Below is the electrical diagram for the boombox:
+![Boombox Electrical Diagram](https://github.com/user-attachments/assets/315d507c-56ac-4d56-b87f-217c2e4bce10)
+
+## Ground Loop Isolator
+The purpose of the ground loop isolator is to block unwanted DC signals that may be injected into the ground signal due to slightly different potentials or audio noise. This eliminates the common hum that audio systems might encounter for a noisefree audio experience. Using two 1:1 audio transformers for the ground loop isolation is the best solution to prevent audio signal attenuation.
+
+## Stereo To Mono Converter
+Since the boombox has one speaker per frequency band, where there is one subwoofer, one midrange, and one tweeter all close together, some stereo dependent audio can have parts cut off or attentuated. So using 220 ohm or above resistors wired as above, will convert the stereo signal into a single mono signal without any issues with ground loops or signal issues. 
 
 # Conclusion
+Originally started as a way to fuse my love of music with technology as a kid, quickly turned into a very rewarding and successful venture with many different models and iterations for various applications. This has been a really fun hobby and I will continue seeing how I can improve these designs in the future.
